@@ -25,6 +25,3 @@ const PostDetail = () => {
 };
 
 export default PostDetail;
-
-
-// 배열이름.find((요소) => 조건)  ※이건 JavaScript의 배열 함수 find()의 문법이에요.※
